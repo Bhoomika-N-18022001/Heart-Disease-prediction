@@ -1,4 +1,4 @@
-Data Analysis
-Confusion-Matrix
-Correlation-Matrix
+Data Analysis,
+Confusion-Matrix,
+Correlation-Matrix,
 Prediction using algoritm with GUI
